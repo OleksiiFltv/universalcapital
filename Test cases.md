@@ -1,5 +1,5 @@
 ## Test Case 1
-**Test Case Name:** Investe - E book - Compare page with design
+**Test Case Name:** Investe - E-Book page - Compare page with design
 
 **Precondition:** Open design link (e.g. in figma)
 
@@ -17,7 +17,7 @@ All elements on the page match the design [View Video 1](video/video1.mp4) (clic
 ---
 
 ## Test Case 2
-**Test Case Name:** Investe - E-Book - Check 'Stáhnout e-book' button
+**Test Case Name:** Investe - E-Book page - Check 'Stáhnout e-book' button
 
 **Precondition:** go to https://investe.cz/
 
@@ -33,8 +33,8 @@ Form with title 'Tady začíná vaše investiční cesta' opened successfully [V
 
 ---
 
-## Test Case 4
-**Test Case Name:** Investe - E-Book - Fill in all fields in form - Send E-book Form to email
+## Test Case 3
+**Test Case Name:** Investe - E-Book page - Fill in all fields in form - Send E-book Form to email
 
 **Precondition:** go to https://investe.cz/
 
@@ -54,3 +54,43 @@ E-book form sent successfully. E-book appears in email
 
 **Actual Result:** 
 Appears message with text 'Omlouváme se. Nemáme pro vás žádnou nabídku.'[View Screenshot](screenshots/Screenshot2.png). E-book appears in email [View Screenshot](screenshots/Screenshot3.png).
+
+---
+
+## Test Case 4
+**Test Case Name:** Investe - E-Book page - Send E-book Form to email without fill in all fileds
+
+**Precondition:** go to https://investe.cz/
+
+**Steps:**  
+1. In header click E-book buton
+2. click button 'Stáhnout e-book'.
+3. click button Odeslat formulář
+
+
+**Expected Result:** 
+All empty fields are highlighted in red, and the form was not submitted.
+
+**Actual Result:** 
+All empty fields are highlighted in red, and the form was not submitted.[View Screenshot](screenshots/Screenshot4.png).
+
+---
+
+## Test Case 5
+**Test Case Name:** Investe - E-Book page - Send E-book Form to email without fill in all fileds
+
+**Precondition:** go to https://investe.cz/
+
+**Steps:**  
+1. In header click E-book buton
+2. scroll down to block 'Jak Investe funguje'
+3. click button 'Začít s Investe'
+
+
+**Expected Result:** 
+Modal form opened.
+
+**Actual Result:** 
+Modal form was not opened.[View Video 1](video/video2.mp4) (click View raw to download file)
+
+
