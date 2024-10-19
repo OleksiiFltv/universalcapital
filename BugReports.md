@@ -1,4 +1,4 @@
-## Ticket-1
+## Ticket 1
 **Project:** Invest
 
 **Issue Type:** BUG
@@ -30,7 +30,7 @@ bug, form submission, E-book, frontend
 
 ---
 
-## Ticket-2
+## Ticket 2
 **Project:** Invest
 
 **Issue Type:** BUG
