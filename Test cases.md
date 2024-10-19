@@ -16,4 +16,4 @@
 1. In header click E-book buton
 2. click button 'Stáhnout e-book'
 **Expected Result:** Form with title 'Tady začíná vaše investiční cesta' opened
-**Actual Result:**Form with title 'Tady začíná vaše investiční cesta' opened successfully [View Screenshot] (screenshots/Screenshot1.png)
+**Actual Result:**Form with title 'Tady začíná vaše investiční cesta' opened successfully [View Screenshot](screenshots/Screenshot1.png)
