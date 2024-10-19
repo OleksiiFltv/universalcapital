@@ -12,7 +12,7 @@
 All elements on the page match the design.
 
 **Actual Result:** 
-All elements on the page match the design [View Video 1](video/video1.mp4) (click View raw to download file)
+All elements on the page match the design [View Video](video/video1.mp4) (click View raw to download file)
 
 ---
 
@@ -91,6 +91,6 @@ All empty fields are highlighted in red, and the form was not submitted.[View Sc
 Modal form opened.
 
 **Actual Result:** 
-Modal form was not opened.[View Video 1](video/video2.mp4) (click View raw to download file)
+Modal form was not opened.[View Video](video/video2.mp4) (click View raw to download file)
 
 
